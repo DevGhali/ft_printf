@@ -59,3 +59,5 @@ Output should be :
 ```
 Testing!
 ```
+## Have you seen what printf can do ❓😯
+<img src= "https://user-images.githubusercontent.com/113459534/220216680-ccfe50d5-5172-4f23-a72d-5e13e6c5b22c.jpeg" width="500" height="500"/>
